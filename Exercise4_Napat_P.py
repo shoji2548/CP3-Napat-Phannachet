@@ -1,9 +1,9 @@
-x = 100
-y = 100
-z = 100
-w = 100
+FE = 100
+GB = 100
+ICS = 100
+CP = 100
 print("---Your Score---")
-print("Foundation English :", x)
-print("General Buiness    :", y)
-print("Introduction to Computer Systerms :", z)
-print("Computer Programming :", w)
+print("Foundation English :", FE)
+print("General Buiness    :", GB)
+print("Introduction to Computer Systerms :", ICS)
+print("Computer Programming :", CP)
