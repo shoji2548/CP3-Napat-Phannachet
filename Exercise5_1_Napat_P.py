@@ -1,0 +1,6 @@
+FN = int(input("ตัวเลขตัวที่1 = "))
+SN = int(input("ตัวเลขตัวที่2 = "))
+print(FN,"+",SN,"=",FN+SN)
+print(FN,"-",SN,"=",FN-SN)
+print(FN,"*",SN,"=",FN*SN)
+print(FN,"/",SN,"=",FN/SN)
